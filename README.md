@@ -1,4 +1,5 @@
 # architectui-vue-pro
+# nvm version 11 
 
 ## Project setup
 ```
